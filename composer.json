@@ -1,0 +1,21 @@
+{
+    "name": "ragon-ball-legends-hack/dragon-ball-legends-hack-unlimited-diamonds",
+    "description": "DRAGON BALL LEGENDS Hack Mod APK Get Unlimited Diamonds Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK DRAGON BALL LEGENDS",
+            "homepage": "http://astuces.cf/DRAGON-BALL-LEGENDS/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
